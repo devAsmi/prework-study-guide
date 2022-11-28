@@ -3,26 +3,17 @@
 ## Description
 This Prework Study Guide is created to help bootcamp student during their prework. It contains notes on HTML, CSS,GIThub,JavaScript.
 
-/*- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?*/
-
-
-
 ## Installation
 N/A
+  
 ## Usage
-
 Prework study Guide can be use to revise course we have learned on prework.We can review  notes on HTML, CSS, GIThub, JavaScript on each section. We can see JavaScript running if we open Dev console using option + command + I .
 
 
 ## Credits
-
 N/A
 
 ## License]
-
 MIT License
 
 Copyright (c) [2022] [devAsmi]
